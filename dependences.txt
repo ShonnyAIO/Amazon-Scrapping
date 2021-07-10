@@ -1,0 +1,9 @@
+NPM INSTALL
+nodemon
+express
+request-promise
+
+API-REST
+https://rapidapi.com/javascriptmastery/api/amazon-data-scraper/
+https://dashboard.scraperapi.com/dashboard
+heroku
